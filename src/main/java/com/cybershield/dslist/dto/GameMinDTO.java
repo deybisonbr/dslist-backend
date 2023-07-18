@@ -1,4 +1,4 @@
-package com.cybershield.dslist.services.game.dto;
+package com.cybershield.dslist.dto;
 
 import com.cybershield.dslist.entities.Game;
 
