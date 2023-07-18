@@ -1,11 +1,9 @@
 package com.cybershield.dslist.contollers;
 
-import com.cybershield.dslist.dto.GameMinDTO;
-import com.cybershield.dslist.entities.Game;
-import com.cybershield.dslist.services.GameService;
+import com.cybershield.dslist.services.game.dto.GameMinDTO;
+import com.cybershield.dslist.services.game.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

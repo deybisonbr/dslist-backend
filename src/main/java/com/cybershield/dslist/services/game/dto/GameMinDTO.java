@@ -1,10 +1,6 @@
-package com.cybershield.dslist.dto;
+package com.cybershield.dslist.services.game.dto;
 
 import com.cybershield.dslist.entities.Game;
-import jakarta.persistence.Column;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
 
 public class GameMinDTO{
 
